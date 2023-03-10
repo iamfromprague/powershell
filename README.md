@@ -1,1 +1,1 @@
-# No chance that I will put ANY description to my powershell repo.
+# No chance that I will put ANY description to my powershell repo. U mad?
