@@ -1,4 +1,4 @@
-# Set the path to the folder containing the subfolders you want to create groups for
+﻿# Set the path to the folder containing the subfolders you want to create groups for
 $folderPath = "C:\Scripts\Projects"
 
 # Get a list of subfolders in the specified folder path
