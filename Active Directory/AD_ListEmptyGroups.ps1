@@ -1,3 +1,4 @@
+# Imports Module to PowerShell Session
 Import-Module ActiveDirectory
 
 # Get a list of all security groups in the domain
