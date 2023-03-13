@@ -4,8 +4,6 @@ $ou = "OU=Test,OU=Skupiny,DC=cz,DC=kajimaeurope,DC=com"
 # Import list of folders
 $subfolders = Import-Csv -Path .\security_groups.csv -Encoding UTF8
 
-
-
 # Loop through each subfolder
 
 foreach ($subfolder in $subfolders) {
